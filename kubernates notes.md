@@ -7,3 +7,5 @@ the offline platform are
 minikube
 aws eks by Amazon
 azure 
+
+kubectl is the cammond line which connects us with the kuberenates API
