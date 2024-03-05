@@ -9,3 +9,4 @@ aws eks by Amazon
 azure 
 
 kubectl is the cammond line which connects us with the kuberenates API
+minikube is the best for practice the k8s in the personal computer
